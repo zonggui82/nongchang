@@ -1,0 +1,761 @@
+2023-06-19 14:11:49 pid:14415 Workerman[think] start in DEBUG mode
+2023-06-19 14:11:54 pid:14415 Workerman[think] stopping ...
+2023-06-19 14:11:54 pid:14415 Workerman[think] has been stopped
+2023-06-19 14:12:09 pid:14428 Workerman[think] start in DEBUG mode
+2023-06-19 14:12:46 pid:14489 Workerman[think] start in DEBUG mode
+2023-06-19 14:13:31 pid:14489 Workerman[think] stopping ...
+2023-06-19 14:13:31 pid:14489 Workerman[think] has been stopped
+2023-06-19 14:13:33 pid:14507 Workerman[think] start in DEBUG mode
+2023-06-19 14:13:57 pid:14507 Workerman[think] stopping ...
+2023-06-19 14:13:57 pid:14507 Workerman[think] has been stopped
+2023-06-19 14:14:07 pid:14516 Workerman[think] start in DEBUG mode
+2023-08-03 16:11:14 pid:17718 Workerman[think] start in DEBUG mode
+2023-08-03 16:11:28 pid:17721 Workerman[think] start in DEBUG mode
+2023-08-03 16:14:48 pid:17721 Workerman[think] stopping ...
+2023-08-03 16:14:48 pid:17721 Workerman[think] has been stopped
+2023-08-03 16:14:49 pid:17743 Workerman[think] start in DEBUG mode
+2023-08-03 16:15:37 pid:17743 Workerman[think] stopping ...
+2023-08-03 16:15:37 pid:17743 Workerman[think] has been stopped
+2023-08-03 16:15:38 pid:17757 Workerman[think] start in DEBUG mode
+2023-08-03 16:16:03 pid:17757 Workerman[think] stopping ...
+2023-08-03 16:16:03 pid:17757 Workerman[think] has been stopped
+2023-08-03 16:16:04 pid:17764 Workerman[think] start in DEBUG mode
+2023-08-03 16:17:19 pid:17764 Workerman[think] stopping ...
+2023-08-03 16:17:19 pid:17764 Workerman[think] has been stopped
+2023-08-03 16:17:20 pid:17781 Workerman[think] start in DEBUG mode
+2023-08-03 16:21:00 pid:17781 Workerman[think] stopping ...
+2023-08-03 16:21:00 pid:17781 Workerman[think] has been stopped
+2023-08-03 16:21:02 pid:17815 Workerman[think] start in DEBUG mode
+2023-08-03 16:23:09 pid:17815 Workerman[think] stopping ...
+2023-08-03 16:23:09 pid:17815 Workerman[think] has been stopped
+2023-08-03 16:23:10 pid:17851 Workerman[think] start in DEBUG mode
+2023-08-03 16:24:12 pid:17851 Workerman[think] stopping ...
+2023-08-03 16:24:12 pid:17851 Workerman[think] has been stopped
+2023-08-03 16:24:13 pid:17865 Workerman[think] start in DEBUG mode
+2023-08-03 16:24:54 pid:17865 Workerman[think] stopping ...
+2023-08-03 16:24:54 pid:17865 Workerman[think] has been stopped
+2023-08-03 16:24:55 pid:17872 Workerman[think] start in DEBUG mode
+2023-08-03 16:37:59 pid:17872 Workerman[think] stopping ...
+2023-08-03 16:37:59 pid:17872 Workerman[think] has been stopped
+2023-08-03 16:38:00 pid:17958 Workerman[think] start in DEBUG mode
+2023-08-03 16:39:57 pid:17958 Workerman[think] stopping ...
+2023-08-03 16:39:57 pid:17958 Workerman[think] has been stopped
+2023-08-03 16:39:58 pid:17981 Workerman[think] start in DEBUG mode
+2023-08-03 16:47:25 pid:17981 Workerman[think] stopping ...
+2023-08-03 16:47:25 pid:17981 Workerman[think] has been stopped
+2023-08-03 16:47:25 pid:18055 Workerman[think] start in DEBUG mode
+2023-08-03 16:48:01 pid:18055 Workerman[think] stopping ...
+2023-08-03 16:48:01 pid:18055 Workerman[think] has been stopped
+2023-08-03 16:48:01 pid:18066 Workerman[think] start in DEBUG mode
+2023-08-03 16:49:07 pid:18066 Workerman[think] stopping ...
+2023-08-03 16:49:07 pid:18066 Workerman[think] has been stopped
+2023-08-03 16:49:08 pid:18078 Workerman[think] start in DEBUG mode
+2023-08-03 16:49:40 pid:18078 Workerman[think] stopping ...
+2023-08-03 16:49:40 pid:18078 Workerman[think] has been stopped
+2023-08-03 16:49:40 pid:18091 Workerman[think] start in DEBUG mode
+2023-08-03 16:50:52 pid:18091 Workerman[think] stopping ...
+2023-08-03 16:50:52 pid:18091 Workerman[think] has been stopped
+2023-08-03 16:50:54 pid:18132 Workerman[think] start in DEBUG mode
+2023-08-03 16:51:19 pid:18132 Workerman[think] stopping ...
+2023-08-03 16:51:19 pid:18132 Workerman[think] has been stopped
+2023-08-03 16:51:20 pid:18150 Workerman[think] start in DEBUG mode
+2023-08-03 17:00:32 pid:18150 Workerman[think] stopping ...
+2023-08-03 17:00:32 pid:18150 Workerman[think] has been stopped
+2023-08-03 17:00:33 pid:18236 Workerman[think] start in DEBUG mode
+2023-08-03 17:14:51 pid:18236 Workerman[think] stopping ...
+2023-08-03 17:14:51 pid:18236 Workerman[think] has been stopped
+2023-08-03 17:14:52 pid:18323 Workerman[think] start in DEBUG mode
+2023-08-03 17:16:11 pid:18323 Workerman[think] stopping ...
+2023-08-03 17:16:11 pid:18323 Workerman[think] has been stopped
+2023-08-03 17:16:12 pid:18343 Workerman[think] start in DEBUG mode
+2023-08-07 14:42:11 pid:6396 Workerman[think] start in DEBUG mode
+2023-08-07 15:00:01 pid:6396 Workerman[think] stopping ...
+2023-08-07 15:00:01 pid:6396 Workerman[think] has been stopped
+2023-10-27 14:28:44 pid:44901 Workerman[think] start in DEBUG mode
+2023-10-27 14:46:15 pid:44901 Workerman[think] stopping ...
+2023-10-27 14:46:15 pid:44901 Workerman[think] has been stopped
+2023-10-27 14:46:16 pid:46108 Workerman[think] start in DEBUG mode
+2023-10-27 16:22:27 pid:46108 Workerman[think] stopping ...
+2023-10-27 16:22:27 pid:46108 Workerman[think] has been stopped
+2023-10-27 16:22:29 pid:46958 Workerman[think] start in DEBUG mode
+2023-10-27 16:35:55 pid:46958 Workerman[think] stopping ...
+2023-10-27 16:35:55 pid:46958 Workerman[think] has been stopped
+2023-10-27 16:35:56 pid:47043 Workerman[think] start in DEBUG mode
+2023-10-27 16:36:19 pid:47043 Workerman[think] stopping ...
+2023-10-27 16:36:19 pid:47043 Workerman[think] has been stopped
+2023-10-27 16:36:24 pid:47047 Workerman[think] start in DEBUG mode
+2023-10-27 16:47:38 pid:47047 Workerman[think] stopping ...
+2023-10-27 16:47:38 pid:47047 Workerman[think] has been stopped
+2023-10-27 16:47:44 pid:47150 Workerman[think] start in DEBUG mode
+2023-10-27 17:00:35 pid:47150 Workerman[think] stopping ...
+2023-10-27 17:00:35 pid:47150 Workerman[think] has been stopped
+2023-10-27 17:00:36 pid:47206 Workerman[think] start in DEBUG mode
+2023-10-27 17:07:13 pid:47206 Workerman[think] stopping ...
+2023-10-27 17:07:13 pid:47206 Workerman[think] has been stopped
+2023-10-27 17:07:14 pid:47263 Workerman[think] start in DEBUG mode
+2023-10-27 17:26:54 pid:47263 Workerman[think] stopping ...
+2023-10-27 17:26:54 pid:47263 Workerman[think] has been stopped
+2024-04-29 09:24:59 pid:53118 Workerman[think] start in DEBUG mode
+2024-04-29 09:25:34 pid:53118 Workerman[think] stopping ...
+2024-04-29 09:25:34 pid:53118 Workerman[think] has been stopped
+2024-04-29 09:25:35 pid:53171 Workerman[think] start in DEBUG mode
+2024-04-29 09:45:22 pid:53171 Workerman[think] stopping ...
+2024-04-29 09:45:22 pid:53171 Workerman[think] has been stopped
+2024-04-29 09:45:23 pid:54404 Workerman[think] start in DEBUG mode
+2024-04-29 09:47:39 pid:54404 Workerman[think] stopping ...
+2024-04-29 09:47:39 pid:54404 Workerman[think] has been stopped
+2024-06-05 14:06:02 pid:89212 Workerman[think] start in DEBUG mode
+2024-06-05 14:11:47 pid:89212 Workerman[think] stopping ...
+2024-06-05 14:11:47 pid:89212 Workerman[think] has been stopped
+2024-06-05 16:33:01 pid:1578 Workerman[think] start in DEBUG mode
+2024-06-05 16:35:59 pid:1578 Workerman[think] stopping ...
+2024-06-05 16:35:59 pid:1578 Workerman[think] has been stopped
+2024-06-05 16:36:00 pid:1774 Workerman[think] start in DEBUG mode
+2024-06-05 16:37:39 pid:1774 Workerman[think] stopping ...
+2024-06-05 16:37:39 pid:1774 Workerman[think] has been stopped
+2024-06-05 16:37:40 pid:1889 Workerman[think] start in DEBUG mode
+2024-06-05 16:38:23 pid:1889 Workerman[think] stopping ...
+2024-06-05 16:38:23 pid:1889 Workerman[think] has been stopped
+2024-06-05 17:01:00 pid:3449 Workerman[think] start in DEBUG mode
+2024-06-05 17:04:48 pid:3449 Workerman[think] stopping ...
+2024-06-05 17:04:48 pid:3449 Workerman[think] has been stopped
+2024-06-05 17:04:49 pid:3682 Workerman[think] start in DEBUG mode
+2024-06-05 17:30:33 pid:3682 Workerman[think] stopping ...
+2024-06-05 17:30:33 pid:3682 Workerman[think] has been stopped
+2024-06-05 17:31:02 pid:6571 Workerman[think] start in DEBUG mode
+2024-06-05 17:32:07 pid:6571 Workerman[think] stopping ...
+2024-06-05 17:32:07 pid:6571 Workerman[think] has been stopped
+2024-07-30 16:00:07 pid:67066 Workerman[think] start in DEBUG mode
+2024-07-30 16:02:37 pid:67066 Workerman[think] stopping ...
+2024-07-30 16:02:37 pid:67066 Workerman[think] has been stopped
+2024-07-30 16:02:39 pid:67235 Workerman[think] start in DEBUG mode
+2024-07-30 16:30:52 pid:67235 Workerman[think] stopping ...
+2024-07-30 16:30:52 pid:67235 Workerman[think] has been stopped
+2024-07-30 16:31:20 pid:69024 Workerman[think] start in DEBUG mode
+2024-07-30 16:32:27 pid:69025 Worker[69025] process terminated
+2024-07-30 16:33:00 pid:69105 Worker[69105] process terminated
+2024-07-30 16:33:00 pid:69146 Worker[69146] process terminated
+2024-07-30 16:33:00 pid:69153 Worker[69153] process terminated
+2024-07-30 16:33:00 pid:69160 Worker[69160] process terminated
+2024-07-30 16:33:00 pid:69167 Worker[69167] process terminated
+2024-07-30 16:33:00 pid:69174 Worker[69174] process terminated
+2024-07-30 16:33:00 pid:69181 Worker[69181] process terminated
+2024-07-30 16:33:00 pid:69188 Worker[69188] process terminated
+2024-07-30 16:33:00 pid:69195 Worker[69195] process terminated
+2024-07-30 16:33:00 pid:69202 Worker[69202] process terminated
+2024-07-30 16:33:00 pid:69209 Worker[69209] process terminated
+2024-07-30 16:33:00 pid:69216 Worker[69216] process terminated
+2024-07-30 16:33:00 pid:69223 Worker[69223] process terminated
+2024-07-30 16:33:00 pid:69230 Worker[69230] process terminated
+2024-07-30 16:33:00 pid:69237 Worker[69237] process terminated
+2024-07-30 16:33:00 pid:69244 Worker[69244] process terminated
+2024-07-30 16:33:00 pid:69251 Worker[69251] process terminated
+2024-07-30 16:33:00 pid:69258 Worker[69258] process terminated
+2024-07-30 16:33:00 pid:69265 Worker[69265] process terminated
+2024-07-30 16:33:00 pid:69272 Worker[69272] process terminated
+2024-07-30 16:33:00 pid:69279 Worker[69279] process terminated
+2024-07-30 16:33:00 pid:69286 Worker[69286] process terminated
+2024-07-30 16:33:01 pid:69293 Worker[69293] process terminated
+2024-07-30 16:33:22 pid:69024 Workerman[think] stopping ...
+2024-07-30 16:33:22 pid:69024 Workerman[think] has been stopped
+2024-07-30 16:33:23 pid:69325 Workerman[think] start in DEBUG mode
+2024-07-30 16:34:00 pid:69326 Worker[69326] process terminated
+2024-07-30 16:34:00 pid:69372 Worker[69372] process terminated
+2024-07-30 16:34:00 pid:69379 Worker[69379] process terminated
+2024-07-30 16:34:00 pid:69386 Worker[69386] process terminated
+2024-07-30 16:34:00 pid:69393 Worker[69393] process terminated
+2024-07-30 16:34:00 pid:69400 Worker[69400] process terminated
+2024-07-30 16:34:00 pid:69407 Worker[69407] process terminated
+2024-07-30 16:34:01 pid:69414 Worker[69414] process terminated
+2024-07-30 16:34:57 pid:69325 Workerman[think] stopping ...
+2024-07-30 16:34:57 pid:69325 Workerman[think] has been stopped
+2024-07-30 16:34:59 pid:69488 Workerman[think] start in DEBUG mode
+2024-07-30 16:35:41 pid:69488 Workerman[think] stopping ...
+2024-07-30 16:35:41 pid:69488 Workerman[think] has been stopped
+2024-07-30 16:36:42 pid:69594 Workerman[think] start in DEBUG mode
+2024-07-30 16:39:48 pid:69594 Workerman[think] stopping ...
+2024-07-30 16:39:48 pid:69594 Workerman[think] has been stopped
+2024-07-30 16:39:50 pid:69802 Workerman[think] start in DEBUG mode
+2024-07-30 16:40:06 pid:69802 Workerman[think] stopping ...
+2024-07-30 16:40:06 pid:69802 Workerman[think] has been stopped
+2024-07-30 16:41:51 pid:69931 Workerman[think] start in DEBUG mode
+2024-07-30 16:42:03 pid:69931 Workerman[think] stopping ...
+2024-07-30 16:42:03 pid:69931 Workerman[think] has been stopped
+2024-07-30 16:42:53 pid:70002 Workerman[think] start in DEBUG mode
+2024-07-30 16:43:04 pid:70002 Workerman[think] stopping ...
+2024-07-30 16:43:04 pid:70002 Workerman[think] has been stopped
+2024-07-30 16:44:00 pid:70090 Workerman[think] start in DEBUG mode
+2024-07-30 16:49:14 pid:70090 Workerman[think] stopping ...
+2024-07-30 16:49:14 pid:70090 Workerman[think] has been stopped
+2024-07-30 16:49:29 pid:70467 Workerman[think] start in DEBUG mode
+2024-07-30 16:53:07 pid:70467 Workerman[think] stopping ...
+2024-07-30 16:53:07 pid:70467 Workerman[think] has been stopped
+2024-07-30 16:53:52 pid:70752 Workerman[think] start in DEBUG mode
+2024-07-30 16:58:22 pid:70752 Workerman[think] stopping ...
+2024-07-30 16:58:22 pid:70752 Workerman[think] has been stopped
+2024-07-30 17:51:16 pid:3746 Workerman[think] start in DEBUG mode
+2024-07-30 17:59:14 pid:3746 Workerman[think] stopping ...
+2024-07-30 17:59:14 pid:3746 Workerman[think] has been stopped
+2024-09-24 14:34:52 pid:71338 Workerman[think] start in DEBUG mode
+2024-09-24 14:35:00 pid:71339 Worker[71339] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71339] exit with status 256
+2024-09-24 14:35:00 pid:71357 Worker[71357] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71357] exit with status 256
+2024-09-24 14:35:00 pid:71364 Worker[71364] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71364] exit with status 256
+2024-09-24 14:35:00 pid:71371 Worker[71371] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71371] exit with status 256
+2024-09-24 14:35:00 pid:71378 Worker[71378] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71378] exit with status 256
+2024-09-24 14:35:00 pid:71385 Worker[71385] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71385] exit with status 256
+2024-09-24 14:35:00 pid:71392 Worker[71392] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71392] exit with status 256
+2024-09-24 14:35:00 pid:71399 Worker[71399] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71399] exit with status 256
+2024-09-24 14:35:00 pid:71406 Worker[71406] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71406] exit with status 256
+2024-09-24 14:35:00 pid:71413 Worker[71413] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71413] exit with status 256
+2024-09-24 14:35:00 pid:71420 Worker[71420] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71420] exit with status 256
+2024-09-24 14:35:00 pid:71427 Worker[71427] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71427] exit with status 256
+2024-09-24 14:35:00 pid:71434 Worker[71434] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71434] exit with status 256
+2024-09-24 14:35:00 pid:71442 Worker[71442] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71442] exit with status 256
+2024-09-24 14:35:00 pid:71449 Worker[71449] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71449] exit with status 256
+2024-09-24 14:35:00 pid:71456 Worker[71456] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71456] exit with status 256
+2024-09-24 14:35:00 pid:71463 Worker[71463] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71463] exit with status 256
+2024-09-24 14:35:00 pid:71470 Worker[71470] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71470] exit with status 256
+2024-09-24 14:35:00 pid:71477 Worker[71477] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71477] exit with status 256
+2024-09-24 14:35:00 pid:71484 Worker[71484] process terminated
+2024-09-24 14:35:00 pid:71338 worker[none:71484] exit with status 256
+2024-09-24 14:35:00 pid:71491 Worker[71491] process terminated
+2024-09-24 14:35:01 pid:71338 worker[none:71491] exit with status 256
+2024-09-24 14:35:07 pid:71338 Workerman[think] stopping ...
+2024-09-24 14:35:07 pid:71338 Workerman[think] has been stopped
+2024-09-24 14:35:10 pid:71509 Workerman[think] start in DEBUG mode
+2024-09-24 14:36:00 pid:71510 Worker[71510] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71510] exit with status 256
+2024-09-24 14:36:00 pid:71570 Worker[71570] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71570] exit with status 256
+2024-09-24 14:36:00 pid:71577 Worker[71577] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71577] exit with status 256
+2024-09-24 14:36:00 pid:71584 Worker[71584] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71584] exit with status 256
+2024-09-24 14:36:00 pid:71591 Worker[71591] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71591] exit with status 256
+2024-09-24 14:36:00 pid:71598 Worker[71598] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71598] exit with status 256
+2024-09-24 14:36:00 pid:71605 Worker[71605] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71605] exit with status 256
+2024-09-24 14:36:00 pid:71612 Worker[71612] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71612] exit with status 256
+2024-09-24 14:36:00 pid:71619 Worker[71619] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71619] exit with status 256
+2024-09-24 14:36:00 pid:71626 Worker[71626] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71626] exit with status 256
+2024-09-24 14:36:00 pid:71633 Worker[71633] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71633] exit with status 256
+2024-09-24 14:36:00 pid:71640 Worker[71640] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71640] exit with status 256
+2024-09-24 14:36:00 pid:71647 Worker[71647] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71647] exit with status 256
+2024-09-24 14:36:00 pid:71654 Worker[71654] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71654] exit with status 256
+2024-09-24 14:36:00 pid:71661 Worker[71661] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71661] exit with status 256
+2024-09-24 14:36:00 pid:71668 Worker[71668] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71668] exit with status 256
+2024-09-24 14:36:00 pid:71675 Worker[71675] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71675] exit with status 256
+2024-09-24 14:36:00 pid:71682 Worker[71682] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71682] exit with status 256
+2024-09-24 14:36:00 pid:71689 Worker[71689] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71689] exit with status 256
+2024-09-24 14:36:00 pid:71696 Worker[71696] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71696] exit with status 256
+2024-09-24 14:36:00 pid:71703 Worker[71703] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71703] exit with status 256
+2024-09-24 14:36:00 pid:71710 Worker[71710] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71710] exit with status 256
+2024-09-24 14:36:00 pid:71717 Worker[71717] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71717] exit with status 256
+2024-09-24 14:36:00 pid:71724 Worker[71724] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71724] exit with status 256
+2024-09-24 14:36:00 pid:71731 Worker[71731] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71731] exit with status 256
+2024-09-24 14:36:00 pid:71738 Worker[71738] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71738] exit with status 256
+2024-09-24 14:36:00 pid:71745 Worker[71745] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71745] exit with status 256
+2024-09-24 14:36:00 pid:71752 Worker[71752] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71752] exit with status 256
+2024-09-24 14:36:00 pid:71759 Worker[71759] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71759] exit with status 256
+2024-09-24 14:36:00 pid:71766 Worker[71766] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71766] exit with status 256
+2024-09-24 14:36:00 pid:71773 Worker[71773] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71773] exit with status 256
+2024-09-24 14:36:00 pid:71781 Worker[71781] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71781] exit with status 256
+2024-09-24 14:36:00 pid:71788 Worker[71788] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71788] exit with status 256
+2024-09-24 14:36:00 pid:71795 Worker[71795] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71795] exit with status 256
+2024-09-24 14:36:00 pid:71802 Worker[71802] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71802] exit with status 256
+2024-09-24 14:36:00 pid:71809 Worker[71809] process terminated
+2024-09-24 14:36:00 pid:71509 worker[none:71809] exit with status 256
+2024-09-24 14:36:00 pid:71816 Worker[71816] process terminated
+2024-09-24 14:36:01 pid:71509 worker[none:71816] exit with status 256
+2024-09-24 14:36:04 pid:71509 Workerman[think] stopping ...
+2024-09-24 14:36:04 pid:71509 Workerman[think] has been stopped
+2024-09-24 14:36:11 pid:71851 Workerman[think] start in DEBUG mode
+2024-09-24 14:36:16 pid:71851 Workerman[think] stopping ...
+2024-09-24 14:36:16 pid:71851 Workerman[think] has been stopped
+2024-10-15 17:21:45 pid:72311 Workerman[think] start in DEBUG mode
+2024-10-15 17:22:00 pid:72312 Worker[72312] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72312] exit with status 256
+2024-10-15 17:22:00 pid:72336 Worker[72336] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72336] exit with status 256
+2024-10-15 17:22:00 pid:72343 Worker[72343] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72343] exit with status 256
+2024-10-15 17:22:00 pid:72350 Worker[72350] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72350] exit with status 256
+2024-10-15 17:22:00 pid:72357 Worker[72357] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72357] exit with status 256
+2024-10-15 17:22:00 pid:72364 Worker[72364] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72364] exit with status 256
+2024-10-15 17:22:00 pid:72371 Worker[72371] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72371] exit with status 256
+2024-10-15 17:22:00 pid:72378 Worker[72378] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72378] exit with status 256
+2024-10-15 17:22:00 pid:72385 Worker[72385] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72385] exit with status 256
+2024-10-15 17:22:00 pid:72392 Worker[72392] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72392] exit with status 256
+2024-10-15 17:22:00 pid:72400 Worker[72400] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72400] exit with status 256
+2024-10-15 17:22:00 pid:72407 Worker[72407] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72407] exit with status 256
+2024-10-15 17:22:00 pid:72414 Worker[72414] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72414] exit with status 256
+2024-10-15 17:22:00 pid:72421 Worker[72421] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72421] exit with status 256
+2024-10-15 17:22:00 pid:72428 Worker[72428] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72428] exit with status 256
+2024-10-15 17:22:00 pid:72435 Worker[72435] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72435] exit with status 256
+2024-10-15 17:22:00 pid:72442 Worker[72442] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72442] exit with status 256
+2024-10-15 17:22:00 pid:72449 Worker[72449] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72449] exit with status 256
+2024-10-15 17:22:00 pid:72456 Worker[72456] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72456] exit with status 256
+2024-10-15 17:22:00 pid:72463 Worker[72463] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72463] exit with status 256
+2024-10-15 17:22:00 pid:72470 Worker[72470] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72470] exit with status 256
+2024-10-15 17:22:00 pid:72477 Worker[72477] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72477] exit with status 256
+2024-10-15 17:22:00 pid:72484 Worker[72484] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72484] exit with status 256
+2024-10-15 17:22:00 pid:72491 Worker[72491] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72491] exit with status 256
+2024-10-15 17:22:00 pid:72498 Worker[72498] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72498] exit with status 256
+2024-10-15 17:22:00 pid:72505 Worker[72505] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72505] exit with status 256
+2024-10-15 17:22:00 pid:72512 Worker[72512] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72512] exit with status 256
+2024-10-15 17:22:00 pid:72519 Worker[72519] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72519] exit with status 256
+2024-10-15 17:22:00 pid:72526 Worker[72526] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72526] exit with status 256
+2024-10-15 17:22:00 pid:72533 Worker[72533] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72533] exit with status 256
+2024-10-15 17:22:00 pid:72540 Worker[72540] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72540] exit with status 256
+2024-10-15 17:22:00 pid:72547 Worker[72547] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72547] exit with status 256
+2024-10-15 17:22:00 pid:72554 Worker[72554] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72554] exit with status 256
+2024-10-15 17:22:00 pid:72561 Worker[72561] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72561] exit with status 256
+2024-10-15 17:22:00 pid:72568 Worker[72568] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72568] exit with status 256
+2024-10-15 17:22:00 pid:72575 Worker[72575] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72575] exit with status 256
+2024-10-15 17:22:00 pid:72582 Worker[72582] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72582] exit with status 256
+2024-10-15 17:22:00 pid:72589 Worker[72589] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72589] exit with status 256
+2024-10-15 17:22:00 pid:72596 Worker[72596] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72596] exit with status 256
+2024-10-15 17:22:00 pid:72603 Worker[72603] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72603] exit with status 256
+2024-10-15 17:22:00 pid:72610 Worker[72610] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72610] exit with status 256
+2024-10-15 17:22:00 pid:72617 Worker[72617] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72617] exit with status 256
+2024-10-15 17:22:00 pid:72624 Worker[72624] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72624] exit with status 256
+2024-10-15 17:22:00 pid:72631 Worker[72631] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72631] exit with status 256
+2024-10-15 17:22:00 pid:72638 Worker[72638] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72638] exit with status 256
+2024-10-15 17:22:00 pid:72645 Worker[72645] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72645] exit with status 256
+2024-10-15 17:22:00 pid:72652 Worker[72652] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72652] exit with status 256
+2024-10-15 17:22:00 pid:72659 Worker[72659] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72659] exit with status 256
+2024-10-15 17:22:00 pid:72666 Worker[72666] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72666] exit with status 256
+2024-10-15 17:22:00 pid:72673 Worker[72673] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72673] exit with status 256
+2024-10-15 17:22:00 pid:72680 Worker[72680] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72680] exit with status 256
+2024-10-15 17:22:00 pid:72687 Worker[72687] process terminated
+2024-10-15 17:22:00 pid:72311 worker[none:72687] exit with status 256
+2024-10-15 17:22:01 pid:72694 Worker[72694] process terminated
+2024-10-15 17:22:01 pid:72311 worker[none:72694] exit with status 256
+2024-10-15 17:22:05 pid:72311 Workerman[think] stopping ...
+2024-10-15 17:22:05 pid:72311 Workerman[think] has been stopped
+2024-10-28 09:22:12 pid:4060 Workerman[think] start in DEBUG mode
+2024-10-28 09:22:31 pid:4060 Workerman[think] stopping ...
+2024-10-28 09:22:31 pid:4060 Workerman[think] has been stopped
+2024-10-28 09:22:32 pid:4098 Workerman[think] start in DEBUG mode
+2024-10-28 09:23:00 pid:4099 Worker[4099] process terminated
+2024-10-28 09:23:00 pid:4098 worker[none:4099] exit with status 256
+2024-10-28 09:23:00 pid:4135 Worker[4135] process terminated
+2024-10-28 09:23:00 pid:4098 worker[none:4135] exit with status 256
+2024-10-28 09:23:00 pid:4142 Worker[4142] process terminated
+2024-10-28 09:23:00 pid:4098 worker[none:4142] exit with status 256
+2024-10-28 09:23:00 pid:4149 Worker[4149] process terminated
+2024-10-28 09:23:00 pid:4098 worker[none:4149] exit with status 256
+2024-10-28 09:23:00 pid:4156 Worker[4156] process terminated
+2024-10-28 09:23:00 pid:4098 worker[none:4156] exit with status 256
+2024-10-28 09:23:01 pid:4163 Worker[4163] process terminated
+2024-10-28 09:23:01 pid:4098 worker[none:4163] exit with status 256
+2024-10-28 09:23:04 pid:4098 Workerman[think] stopping ...
+2024-10-28 09:23:04 pid:4098 Workerman[think] has been stopped
+2024-10-28 09:23:06 pid:4181 Workerman[think] start in DEBUG mode
+2024-10-28 09:24:00 pid:4182 Worker[4182] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4182] exit with status 256
+2024-10-28 09:24:00 pid:4249 Worker[4249] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4249] exit with status 256
+2024-10-28 09:24:00 pid:4256 Worker[4256] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4256] exit with status 256
+2024-10-28 09:24:00 pid:4263 Worker[4263] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4263] exit with status 256
+2024-10-28 09:24:00 pid:4270 Worker[4270] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4270] exit with status 256
+2024-10-28 09:24:00 pid:4277 Worker[4277] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4277] exit with status 256
+2024-10-28 09:24:00 pid:4284 Worker[4284] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4284] exit with status 256
+2024-10-28 09:24:00 pid:4291 Worker[4291] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4291] exit with status 256
+2024-10-28 09:24:00 pid:4298 Worker[4298] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4298] exit with status 256
+2024-10-28 09:24:00 pid:4305 Worker[4305] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4305] exit with status 256
+2024-10-28 09:24:00 pid:4312 Worker[4312] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4312] exit with status 256
+2024-10-28 09:24:00 pid:4319 Worker[4319] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4319] exit with status 256
+2024-10-28 09:24:00 pid:4326 Worker[4326] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4326] exit with status 256
+2024-10-28 09:24:00 pid:4333 Worker[4333] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4333] exit with status 256
+2024-10-28 09:24:00 pid:4340 Worker[4340] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4340] exit with status 256
+2024-10-28 09:24:00 pid:4348 Worker[4348] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4348] exit with status 256
+2024-10-28 09:24:00 pid:4355 Worker[4355] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4355] exit with status 256
+2024-10-28 09:24:00 pid:4362 Worker[4362] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4362] exit with status 256
+2024-10-28 09:24:00 pid:4369 Worker[4369] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4369] exit with status 256
+2024-10-28 09:24:00 pid:4376 Worker[4376] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4376] exit with status 256
+2024-10-28 09:24:00 pid:4383 Worker[4383] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4383] exit with status 256
+2024-10-28 09:24:00 pid:4390 Worker[4390] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4390] exit with status 256
+2024-10-28 09:24:00 pid:4397 Worker[4397] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4397] exit with status 256
+2024-10-28 09:24:00 pid:4404 Worker[4404] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4404] exit with status 256
+2024-10-28 09:24:00 pid:4411 Worker[4411] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4411] exit with status 256
+2024-10-28 09:24:00 pid:4418 Worker[4418] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4418] exit with status 256
+2024-10-28 09:24:00 pid:4425 Worker[4425] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4425] exit with status 256
+2024-10-28 09:24:00 pid:4432 Worker[4432] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4432] exit with status 256
+2024-10-28 09:24:00 pid:4439 Worker[4439] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4439] exit with status 256
+2024-10-28 09:24:00 pid:4446 Worker[4446] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4446] exit with status 256
+2024-10-28 09:24:00 pid:4453 Worker[4453] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4453] exit with status 256
+2024-10-28 09:24:00 pid:4460 Worker[4460] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4460] exit with status 256
+2024-10-28 09:24:00 pid:4467 Worker[4467] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4467] exit with status 256
+2024-10-28 09:24:00 pid:4474 Worker[4474] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4474] exit with status 256
+2024-10-28 09:24:00 pid:4481 Worker[4481] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4481] exit with status 256
+2024-10-28 09:24:00 pid:4488 Worker[4488] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4488] exit with status 256
+2024-10-28 09:24:00 pid:4495 Worker[4495] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4495] exit with status 256
+2024-10-28 09:24:00 pid:4502 Worker[4502] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4502] exit with status 256
+2024-10-28 09:24:00 pid:4509 Worker[4509] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4509] exit with status 256
+2024-10-28 09:24:00 pid:4516 Worker[4516] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4516] exit with status 256
+2024-10-28 09:24:00 pid:4523 Worker[4523] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4523] exit with status 256
+2024-10-28 09:24:00 pid:4530 Worker[4530] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4530] exit with status 256
+2024-10-28 09:24:00 pid:4537 Worker[4537] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4537] exit with status 256
+2024-10-28 09:24:00 pid:4544 Worker[4544] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4544] exit with status 256
+2024-10-28 09:24:00 pid:4551 Worker[4551] process terminated
+2024-10-28 09:24:00 pid:4181 worker[none:4551] exit with status 256
+2024-10-28 09:24:01 pid:4558 Worker[4558] process terminated
+2024-10-28 09:24:01 pid:4181 worker[none:4558] exit with status 256
+2024-10-28 09:24:10 pid:4181 Workerman[think] stopping ...
+2024-10-28 09:24:10 pid:4181 Workerman[think] has been stopped
+2024-10-28 09:24:16 pid:4581 Workerman[think] start in DEBUG mode
+2024-10-28 09:25:00 pid:4582 Worker[4582] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4582] exit with status 256
+2024-10-28 09:25:00 pid:4631 Worker[4631] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4631] exit with status 256
+2024-10-28 09:25:00 pid:4638 Worker[4638] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4638] exit with status 256
+2024-10-28 09:25:00 pid:4645 Worker[4645] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4645] exit with status 256
+2024-10-28 09:25:00 pid:4652 Worker[4652] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4652] exit with status 256
+2024-10-28 09:25:00 pid:4659 Worker[4659] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4659] exit with status 256
+2024-10-28 09:25:00 pid:4666 Worker[4666] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4666] exit with status 256
+2024-10-28 09:25:00 pid:4673 Worker[4673] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4673] exit with status 256
+2024-10-28 09:25:00 pid:4680 Worker[4680] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4680] exit with status 256
+2024-10-28 09:25:00 pid:4687 Worker[4687] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4687] exit with status 256
+2024-10-28 09:25:00 pid:4694 Worker[4694] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4694] exit with status 256
+2024-10-28 09:25:00 pid:4701 Worker[4701] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4701] exit with status 256
+2024-10-28 09:25:00 pid:4708 Worker[4708] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4708] exit with status 256
+2024-10-28 09:25:00 pid:4715 Worker[4715] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4715] exit with status 256
+2024-10-28 09:25:00 pid:4722 Worker[4722] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4722] exit with status 256
+2024-10-28 09:25:00 pid:4729 Worker[4729] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4729] exit with status 256
+2024-10-28 09:25:00 pid:4736 Worker[4736] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4736] exit with status 256
+2024-10-28 09:25:00 pid:4743 Worker[4743] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4743] exit with status 256
+2024-10-28 09:25:00 pid:4750 Worker[4750] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4750] exit with status 256
+2024-10-28 09:25:00 pid:4757 Worker[4757] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4757] exit with status 256
+2024-10-28 09:25:00 pid:4764 Worker[4764] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4764] exit with status 256
+2024-10-28 09:25:00 pid:4771 Worker[4771] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4771] exit with status 256
+2024-10-28 09:25:00 pid:4779 Worker[4779] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4779] exit with status 256
+2024-10-28 09:25:00 pid:4786 Worker[4786] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4786] exit with status 256
+2024-10-28 09:25:00 pid:4793 Worker[4793] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4793] exit with status 256
+2024-10-28 09:25:00 pid:4800 Worker[4800] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4800] exit with status 256
+2024-10-28 09:25:00 pid:4807 Worker[4807] process terminated
+2024-10-28 09:25:00 pid:4581 worker[none:4807] exit with status 256
+2024-10-28 09:25:01 pid:4814 Worker[4814] process terminated
+2024-10-28 09:25:01 pid:4581 worker[none:4814] exit with status 256
+2024-10-28 09:26:00 pid:4821 Worker[4821] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:4821] exit with status 256
+2024-10-28 09:26:00 pid:4896 Worker[4896] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:4896] exit with status 256
+2024-10-28 09:26:00 pid:4903 Worker[4903] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:4903] exit with status 256
+2024-10-28 09:26:00 pid:4910 Worker[4910] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:4910] exit with status 256
+2024-10-28 09:26:00 pid:4917 Worker[4917] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:4917] exit with status 256
+2024-10-28 09:26:00 pid:4924 Worker[4924] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:4924] exit with status 256
+2024-10-28 09:26:00 pid:4931 Worker[4931] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:4931] exit with status 256
+2024-10-28 09:26:00 pid:4938 Worker[4938] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:4938] exit with status 256
+2024-10-28 09:26:00 pid:4945 Worker[4945] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:4945] exit with status 256
+2024-10-28 09:26:00 pid:4952 Worker[4952] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:4952] exit with status 256
+2024-10-28 09:26:00 pid:4959 Worker[4959] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:4959] exit with status 256
+2024-10-28 09:26:00 pid:4966 Worker[4966] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:4966] exit with status 256
+2024-10-28 09:26:00 pid:4974 Worker[4974] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:4974] exit with status 256
+2024-10-28 09:26:00 pid:4981 Worker[4981] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:4981] exit with status 256
+2024-10-28 09:26:00 pid:4988 Worker[4988] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:4988] exit with status 256
+2024-10-28 09:26:00 pid:4995 Worker[4995] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:4995] exit with status 256
+2024-10-28 09:26:00 pid:5002 Worker[5002] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5002] exit with status 256
+2024-10-28 09:26:00 pid:5009 Worker[5009] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5009] exit with status 256
+2024-10-28 09:26:00 pid:5016 Worker[5016] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5016] exit with status 256
+2024-10-28 09:26:00 pid:5023 Worker[5023] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5023] exit with status 256
+2024-10-28 09:26:00 pid:5030 Worker[5030] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5030] exit with status 256
+2024-10-28 09:26:00 pid:5037 Worker[5037] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5037] exit with status 256
+2024-10-28 09:26:00 pid:5044 Worker[5044] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5044] exit with status 256
+2024-10-28 09:26:00 pid:5051 Worker[5051] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5051] exit with status 256
+2024-10-28 09:26:00 pid:5058 Worker[5058] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5058] exit with status 256
+2024-10-28 09:26:00 pid:5065 Worker[5065] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5065] exit with status 256
+2024-10-28 09:26:00 pid:5072 Worker[5072] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5072] exit with status 256
+2024-10-28 09:26:00 pid:5079 Worker[5079] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5079] exit with status 256
+2024-10-28 09:26:00 pid:5086 Worker[5086] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5086] exit with status 256
+2024-10-28 09:26:00 pid:5093 Worker[5093] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5093] exit with status 256
+2024-10-28 09:26:00 pid:5100 Worker[5100] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5100] exit with status 256
+2024-10-28 09:26:00 pid:5107 Worker[5107] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5107] exit with status 256
+2024-10-28 09:26:00 pid:5114 Worker[5114] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5114] exit with status 256
+2024-10-28 09:26:00 pid:5121 Worker[5121] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5121] exit with status 256
+2024-10-28 09:26:00 pid:5128 Worker[5128] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5128] exit with status 256
+2024-10-28 09:26:00 pid:5135 Worker[5135] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5135] exit with status 256
+2024-10-28 09:26:00 pid:5142 Worker[5142] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5142] exit with status 256
+2024-10-28 09:26:00 pid:5149 Worker[5149] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5149] exit with status 256
+2024-10-28 09:26:00 pid:5156 Worker[5156] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5156] exit with status 256
+2024-10-28 09:26:00 pid:5163 Worker[5163] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5163] exit with status 256
+2024-10-28 09:26:00 pid:5170 Worker[5170] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5170] exit with status 256
+2024-10-28 09:26:00 pid:5177 Worker[5177] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5177] exit with status 256
+2024-10-28 09:26:00 pid:5184 Worker[5184] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5184] exit with status 256
+2024-10-28 09:26:00 pid:5191 Worker[5191] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5191] exit with status 256
+2024-10-28 09:26:00 pid:5198 Worker[5198] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5198] exit with status 256
+2024-10-28 09:26:00 pid:5205 Worker[5205] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5205] exit with status 256
+2024-10-28 09:26:00 pid:5212 Worker[5212] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5212] exit with status 256
+2024-10-28 09:26:00 pid:5219 Worker[5219] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5219] exit with status 256
+2024-10-28 09:26:00 pid:5226 Worker[5226] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5226] exit with status 256
+2024-10-28 09:26:00 pid:5233 Worker[5233] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5233] exit with status 256
+2024-10-28 09:26:00 pid:5240 Worker[5240] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5240] exit with status 256
+2024-10-28 09:26:00 pid:5247 Worker[5247] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5247] exit with status 256
+2024-10-28 09:26:00 pid:5254 Worker[5254] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5254] exit with status 256
+2024-10-28 09:26:00 pid:5261 Worker[5261] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5261] exit with status 256
+2024-10-28 09:26:00 pid:5268 Worker[5268] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5268] exit with status 256
+2024-10-28 09:26:00 pid:5275 Worker[5275] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5275] exit with status 256
+2024-10-28 09:26:00 pid:5282 Worker[5282] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5282] exit with status 256
+2024-10-28 09:26:00 pid:5289 Worker[5289] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5289] exit with status 256
+2024-10-28 09:26:00 pid:5296 Worker[5296] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5296] exit with status 256
+2024-10-28 09:26:00 pid:5303 Worker[5303] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5303] exit with status 256
+2024-10-28 09:26:00 pid:5310 Worker[5310] process terminated
+2024-10-28 09:26:00 pid:4581 worker[none:5310] exit with status 256
+2024-10-28 09:26:01 pid:5317 Worker[5317] process terminated
+2024-10-28 09:26:01 pid:4581 worker[none:5317] exit with status 256
+2024-10-28 09:26:15 pid:4581 Workerman[think] stopping ...
+2024-10-28 09:26:15 pid:4581 Workerman[think] has been stopped
+2024-10-28 09:29:37 pid:5561 Workerman[think] start in DEBUG mode
+2024-10-28 09:29:41 pid:5561 Workerman[think] stopping ...
+2024-10-28 09:29:41 pid:5561 Workerman[think] has been stopped
+2024-12-13 17:26:44 pid:83277 Workerman[think] start in DEBUG mode
+2024-12-13 17:29:17 pid:83277 Workerman[think] stopping ...
+2024-12-13 17:29:17 pid:83277 Workerman[think] has been stopped
+2024-12-13 17:29:52 pid:83522 Workerman[think] start in DEBUG mode
+2024-12-13 17:30:54 pid:83522 Workerman[think] stopping ...
+2024-12-13 17:30:54 pid:83522 Workerman[think] has been stopped
+2024-12-13 17:37:07 pid:84000 Workerman[think] start in DEBUG mode
+2024-12-13 17:39:13 pid:84000 Workerman[think] stopping ...
+2024-12-13 17:39:13 pid:84000 Workerman[think] has been stopped
+2025-09-01 17:49:28 pid:33796 Workerman[think] start in DEBUG mode
+2025-09-01 18:29:30 pid:33801 Worker[33801] process terminated
+2025-09-01 18:29:30 pid:33796 worker[none:33801] exit with status 256
+2025-09-01 19:18:32 pid:35299 Worker[35299] process terminated
+2025-09-01 19:18:32 pid:33796 worker[none:35299] exit with status 256
+2025-09-01 21:02:34 pid:35515 Worker[35515] process terminated
+2025-09-01 21:02:34 pid:33796 worker[none:35515] exit with status 256
+2025-09-01 21:47:17 pid:35830 Worker[35830] process terminated
+2025-09-01 21:47:17 pid:33796 worker[none:35830] exit with status 256
+2025-09-02 00:05:33 pid:35993 Worker[35993] process terminated
+2025-09-02 00:05:33 pid:33796 worker[none:35993] exit with status 256
+2025-09-02 01:06:41 pid:36412 Worker[36412] process terminated
+2025-09-02 01:06:41 pid:33796 worker[none:36412] exit with status 256
+2025-09-02 03:08:33 pid:36619 Worker[36619] process terminated
+2025-09-02 03:08:33 pid:33796 worker[none:36619] exit with status 256
+2025-09-02 03:53:24 pid:37081 Worker[37081] process terminated
+2025-09-02 03:53:24 pid:33796 worker[none:37081] exit with status 256
+2025-09-02 06:59:23 pid:37272 Worker[37272] process terminated
+2025-09-02 06:59:23 pid:33796 worker[none:37272] exit with status 256
+2025-09-02 09:23:14 pid:33796 Workerman[think] stopping ...
+2025-09-02 09:23:14 pid:33796 Workerman[think] has been stopped
